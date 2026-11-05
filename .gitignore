@@ -1,0 +1,24 @@
+# Ignore log files 
+*.log
+
+# Ignore password files
+password.txt
+
+#Ignore environment variables
+.env
+
+# Ignore backup files
+*.bak
+
+# Ignore temporary files
+*.tmp
+
+# Ignore dependency folders
+node_modules/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore private SSH keys
+*.pem
+*.key
